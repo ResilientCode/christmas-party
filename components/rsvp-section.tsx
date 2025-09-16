@@ -45,7 +45,7 @@ export function RSVPSection() {
           </AlertDialog>
           <div className="text-sm text-primary-foreground/80 space-y-1">
             <p>Questions? Contact the DGI team</p>
-            <p>📧 events@dgi.com | 📱 01522 123456</p>
+            <p>📧 Drop Ellie a message! | 📱 01522 123456</p>
           </div>
         </CardContent>
       </Card>
